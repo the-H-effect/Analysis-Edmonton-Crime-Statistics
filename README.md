@@ -67,7 +67,7 @@ Percentage of complaints investigated and closed within 6 months is below 50%. A
 
 
 ## Evaluation
-The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. This period of reduced crime activity should be further investigated to determine the underlying reason, and apply lessons learnt to improve current situation. Questions such as did Edmonton see an increase in population? was there an increase in police strength? was crime underreported during this period? All these and more is part of my recommendation.
+The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. This period of reduced crime activity should be further investigated to determine the underlying reason, and apply lessons learnt to improve current situation. Questions such as did Edmonton see a decrease in population resulting in fewer crime count? was there an increase in police strength? was crime underreported during this period? All these and more is part of my recommendation for subsequent analysis.
 
 
 ## Conclusion
