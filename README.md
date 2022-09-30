@@ -65,6 +65,10 @@ Percentage of complaints investigated and closed within 6 months is below 50%. A
 
 ![ComplaintRate DeepDive](https://user-images.githubusercontent.com/114383545/192958838-68a4340c-4163-4779-a7e5-8546e96bafbc.jpg)
 
+## Edmonton Neighbourhood
+Downtown, Oliver, Mccauley, Central McDougall and Boyle Street are the 5 top contibuting neighbourhoods to total crime count. For the specific Categories of Violent Crimes and Prpoerty crimes, Downtown still has the highest count. However Oliver, Alberta Avenue, Strathcona and Queen Mary Park are the next top 4 Contributors to the specific Property crime category (Break and enter, Theft of Vehicle, Theft from vechicle, and Theft over $5,000). While McCauley, Central McDougall, Boyle Street and Oliver are the the next top 4 contibutors to the category of Violent crimes (Homicide, Robbery, Assault and Sexual Assault).
+
+![Neighbourhood](https://user-images.githubusercontent.com/114383545/193347797-98e5f22b-b7f3-4a1e-b3e3-5df80638483e.jpg)
 
 ## Evaluation
 The visualizations gives valuable insights on Edmonton's crime indicators. All KPIs showed a decrease for the year 2011 - 2014. This period of reduced crime activity should be further investigated to determine the underlying reason, and apply lessons learnt to improve current situation. Questions such as did Edmonton see a decrease in population resulting in fewer crime count? was there an increase in police strength? was crime underreported during this period? All these and more is part of my recommendation for subsequent analysis.
