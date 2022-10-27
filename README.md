@@ -1,7 +1,9 @@
 # Analysis of Edmonton's Crime Statistics
 ### _A Data Visualization Project using Tableau_
 
-Edmonton Crime statistics was analyzed for a **10 year period of 2009 to 2019**. For any data analytics or mining project, the first step is the business understanding. Data is one of the most important resource any business or industry can have, and when collected and interpreted correctly, can provide valuable insights to the business.
+Edmonton Crime statistics was analyzed for a **10 year period of 2009 to 2019**. 
+
+Data is one of the most important resource any business or industry can have, and when collected and interpreted correctly, can provide valuable insights to the business.
 
 However, this can only start from understanding the business industry, be it domain of Health care, Retail, Finance, Engineering, Transportation just to mention a few. Without understanding the business or industry in question, it is almost impossible to have a data understanding, and if you can not make sense of your data, then you cannot ask your data questions.
 
